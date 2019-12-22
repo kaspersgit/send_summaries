@@ -168,7 +168,7 @@ msg.attach(part1)
 import smtplib, ssl
 
 port = 465  # For SSL
-password = open("C:/Users/kaspe/Documents/python_scripts/article_summarize/ps_gmail_send.txt", "r").read()
+password = open("/home/pi/Documents/trusted/ps_gmail_send.txt", "r").read()
 
 # Create a secure SSL context
 context = ssl.create_default_context()
