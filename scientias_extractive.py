@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 #Importing packages
 from bs4 import BeautifulSoup
 import requests
