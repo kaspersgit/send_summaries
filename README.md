@@ -1,4 +1,4 @@
-# send_summaries
+# Main result
 Automate sending summaries of articles from Scientias.nl, at the moment the summary is a very simple extractive one. 
 
 # Crontab used following
